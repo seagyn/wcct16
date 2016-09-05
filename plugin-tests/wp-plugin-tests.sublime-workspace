@@ -1,0 +1,1238 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"selectives",
+				"selective_scripts"
+			],
+			[
+				"esc_",
+				"esc_html"
+			],
+			[
+				"Selective",
+				"SelectiveScripts"
+			],
+			[
+				"add_",
+				"add_action"
+			],
+			[
+				"current",
+				"current_time"
+			],
+			[
+				"member",
+				"membership_id"
+			],
+			[
+				"mem",
+				"membership"
+			],
+			[
+				"col",
+				"column_name"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"wp_en",
+				"wp_enqueue_style"
+			],
+			[
+				"day_",
+				"day_sessions"
+			],
+			[
+				"star",
+				"start_time"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"none",
+				"none_members"
+			],
+			[
+				"flash",
+				"flash_message"
+			],
+			[
+				"memb",
+				"membership_id"
+			],
+			[
+				"new",
+				"new_post_id"
+			],
+			[
+				"flus",
+				"flush_rewrite_rules"
+			],
+			[
+				"pro",
+				"prorate"
+			],
+			[
+				"invoice",
+				"invoice_number"
+			],
+			[
+				"boo",
+				"booking_data"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"sess",
+				"session_class"
+			],
+			[
+				"update_user",
+				"update_user_meta"
+			],
+			[
+				"get_ter",
+				"get_terms"
+			],
+			[
+				"fp_get",
+				"fp_get_page_permalink"
+			],
+			[
+				"delete_post",
+				"delete_post_meta"
+			],
+			[
+				"wp_get_post",
+				"wp_get_post_terms"
+			],
+			[
+				"clas",
+				"class_times"
+			],
+			[
+				"cre",
+				"credit_difference"
+			],
+			[
+				"curr",
+				"current_credits"
+			],
+			[
+				"selec",
+				"selected"
+			],
+			[
+				"members",
+				"memberships"
+			],
+			[
+				"WP_U",
+				"WP_User_Query"
+			],
+			[
+				"member_d",
+				"member_data"
+			],
+			[
+				"job_open",
+				"job_opening_info"
+			],
+			[
+				"job",
+				"job_info"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"register_tax",
+				"register_taxonomy"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"parent",
+				"parent_category"
+			],
+			[
+				"child",
+				"child_categories"
+			],
+			[
+				"chi",
+				"child_categories"
+			],
+			[
+				"categ",
+				"category_data"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"get_temp",
+				"get_template_part"
+			],
+			[
+				"paygate_",
+				"paygate_id"
+			],
+			[
+				"check",
+				"CHECKSUM"
+			],
+			[
+				"enc",
+				"paygate_encryption_key"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"add_f",
+				"add_filter"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"is_user",
+				"is_user_logged_in"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"iso",
+				"iso-thumb"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"wp_enqu",
+				"wp_enqueue_style"
+			],
+			[
+				"the_po",
+				"the_post_thumbnail"
+			],
+			[
+				"WP_q",
+				"WP_Query"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"dia",
+				"diamond_price"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ob_get",
+				"ob_get_contents"
+			],
+			[
+				"ob",
+				"ob_flush"
+			],
+			[
+				"ob_",
+				"ob_start"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"diam",
+				"diamond_price"
+			],
+			[
+				"pr",
+				"project-header-container"
+			],
+			[
+				"get_st",
+				"get_stylesheet_directory_uri"
+			],
+			[
+				"wp_enq",
+				"wp_enqueue_script"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"the_post",
+				"the_post_thumbnail"
+			],
+			[
+				"class",
+				"class_exists"
+			],
+			[
+				"work",
+				"workout"
+			],
+			[
+				"WP_Que",
+				"WP_Query"
+			],
+			[
+				"curre",
+				"current_date"
+			],
+			[
+				"tran",
+				"transaction_data"
+			],
+			[
+				"get_the_ti",
+				"get_the_title"
+			],
+			[
+				"device",
+				"device_location"
+			],
+			[
+				"san",
+				"sanitize_text_field"
+			],
+			[
+				"get_site",
+				"get_site_url"
+			],
+			[
+				"strto",
+				"strtotime"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "tests/bootstrap.php",
+			"settings":
+			{
+				"buffer_size": 592,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "readme.md",
+			"settings":
+			{
+				"buffer_size": 812,
+				"line_ending": "Unix",
+				"name": "This is the auto-generated files from WP-CLI when"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nMarkdown Preview\n----------------\n\n  Sublime Text 2/3 Markdown Preview\n  =================================\n  \n  Preview and build your markdown files quickly in your web browser from sublime text 2/3. \n  \n  You can use builtin [python-markdown][10] parser or use the [github markdown API][5] for the conversion.\n  \n  **NOTE:** If you choose the GitHub API for conversion (set parser: github in your settings), your code will be sent through https to github for live conversion. You'll have [Github flavored markdown][6], syntax highlighting and EMOJI support for free :heart: :octocat: :gift:. If you make more than 60 calls a day, be sure to set your GitHub API key in the settings :). You can also get most of this in the default Markdown parser with by enabling certain extensions; see \"[Parsing Github Flavored Markdown](#parsing-github-flavored-markdown-)\"\" below for more information.\n  \n  **LINUX users:** If you want to use GitHub API for conversion, you'll need to have a custom Python install that includes python-ssl as its not built in the Sublime Text 2 Linux package. see [@dusteye comment][8]. If you use a custom window manager, also be sure to set a `BROWSER` environment variable. see [@PPvG comments][9]\n  \n  ## Features :\n  \n   - Markdown preview using the [Python-markdown][10] or the Github API just choose select the build commands.\n   - Syntax highlighting via Pygments. See \"[Configuring Pygments](#configuring-pygments)\" for more info.\n   - Build markdown file using Sublime Text build system. The build parser are config via the `\"parser\"` config.\n   - Browser preview auto reload on save if you have the [ST2 LiveReload plugin][7] installed.\n   - Builtin parser : supports `abbr`, `attr_list`, `def_list`, `fenced_code`, `footnotes`, `tables`, `smart_strong`, `smarty`,  `wikilinks`, `meta`, `sane_lists`, `codehilite`, `nl2br`, and `toc` markdown extensions.\n   - CSS search path for local and build-in CSS files (always enabled) and/or CSS overriding if you need\n   - YAML support thanks to @tommi\n   - Clipboard selection and copy to clipboard thanks to @hexatrope\n   - MathJax support : \\\\\\\\(\\frac{\\pi}{2}\\\\\\\\) thanks to @bps10\n   - HTML template customisation thanks to @hozaka\n   - Embed images as base64 (see [settings][settings] file for more info)\n   - Strip out multimarkdown critic marks from either Githubs or Python Markdown input source (see [settings][settings] file for more info)\n   - 3rd party extensions for the Python Markdown parser:\n  \n      | Extension | Documentation |\n      |-----------|---------------|\n      | magiclink | Find and convert HTML links and email address to links ([MagicLink Documentation](http://facelessuser.github.io/pymdown-extensions/extensions/magiclink/)). |\n      | delete | Surround inline text with `~~strike through~~` to get del tags ~~strike through~~. |\n      | insert | Surround inline text with `^^underlined^^` to get ins tags <ins>underlined</ins>. |\n      | tasklist | Github Flavored Markdown tasklists ([Tasklist Documentation](http://facelessuser.github.io/pymdown-extensions/extensions/tasklist/)). |\n      | githubemoji | Support for Github Flavored Markdown emojis ([GithubEmoji Documentation](http://facelessuser.github.io/pymdown-extensions/extensions/githubemoji/)). |\n      | headeranchor | Github Flavored Markdown style header anchors ([HeaderAnchor Documentation](http://facelessuser.github.io/pymdown-extensions/extensions/headeranchor/)). |\n      | github | A convenience extension to add: `magiclink`, `delete`, `tasklist`, `githubemoji`, `headeranchor`, `superfences`, and `nl2br` to parse and display Markdown in a github-ish way.  It is recommed to pair `github` with `extra` and `codehilite` (with language guessing off) to parse close to github's way.  Be aware of what extensions `github` loads, because you should not load extensions more than once. |\n      | progressbar | Create progress bars ([ProgressBar Documentation](http://facelessuser.github.io/pymdown-extensions/extensions/progressbar/)). |\n      | superfences | Allow fenced blocks to be nested under lists, blockquotes, etc. and add special UML diagram blocks ([SuperFences Documentation](http://facelessuser.github.io/pymdown-extensions/extensions/superfences/)). |\n  \n  ## Installation :\n  \n  ### Using [Package Control][3] (*Recommended*)\n  \n  For all Sublime Text 2/3 users we recommend install via [Package Control][3].\n  \n  1. [Install][11] Package Control if you haven't yet.\n  2. Use <kbd>cmd</kbd>+<kbd>shift</kbd>+<kbd>P</kbd> then `Package Control: Install Package`\n  3. Look for `Markdown Preview` and install it.\n  \n  ### Manual Install\n  \n  1. Click the `Preferences > Browse Packages…` menu\n  2. Browse up a folder and then into the `Installed Packages/` folder\n  3. Download [zip package][12] rename it to `Markdown Preview.sublime-package` and copy it into the `Installed Packages/` directory\n  4. Restart Sublime Text\n  \n  ## Usage :\n  \n  ### To preview :\n  \n   - optionally select some of your markdown for conversion\n   - use <kbd>cmd</kbd>+<kbd>shift</kbd>+<kbd>P</kbd> then `Markdown Preview` to show the follow commands (you will be prompted to select which parser you prefer):\n  	- Markdown Preview: Preview in Browser\n  	- Markdown Preview: Export HTML in Sublime Text\n  	- Markdown Preview: Copy to Clipboard\n  	- Markdown Preview: Open Markdown Cheat sheet\n   - or bind some key in your user key binding, using a line like this one:\n     `{ \"keys\": [\"alt+m\"], \"command\": \"markdown_preview\", \"args\": {\"target\": \"browser\", \"parser\":\"markdown\"} },` for a specific parser and target or `{ \"keys\": [\"alt+m\"], \"command\": \"markdown_preview_select\", \"args\": {\"target\": \"browser\"} },` to bring up the quick panel to select enabled parsers for a given target.\n   - once converted a first time, the output HTML will be updated on each file save (with LiveReload plugin)\n  \n  ### Enabling Other External Markdown Parsers :\n  \n  External parser commands and arguments should first be mapped to a name.  The path to the binary should be first, followed by flags etc.\n  \n  ```js\n      \"markdown_binary_map\": {\n          \"multimarkdown\": [\"/usr/local/bin/multimarkdown\"]\n      },\n  ```\n  \n  Then the name can be placed in `enabled_parsers` to enable use of the new parser.\n  \n  ```js\n      \"enabled_parsers\": [\"markdown\", \"github\", \"multimarkdown\"],\n  ```\n  \n  ### To build :\n  \n   - Just use <kbd>ctrl</kbd>+<kbd>B</kbd> (Windows/Linux) or <kbd>cmd</kbd>+<kbd>B</kbd> (Mac) to build current file.\n  \n  ### To config :\n  \n  Using Sublime Text menu: `Preferences`->`Package Settings`->`Markdown Preview`\n  \n  - `Settings - User` is where you change your settings for Markdown Preview.\n  - `Settings - Default` is a good reference with detailed descriptions for each setting.\n  \n  ### Configuring Pygments\n  If you add the codehilite extension manually in the enabled extensions, you can override some of the default settings.\n  \n  * Turn language guessing *on* or *off* (*on* will highlight fenced blocks even if you don't specify a language)  `codehilite(guess_lang=False)` (True|False).\n  * Show line numbers: `codehilite(linenums=True)` (True|False).\n  * Change the higlight theme: `codehilite(pygments_style=emacs)`.\n  * Inline the CSS: `codehilite(noclasses=True)` (True|False).\n  * Use multiple: `codehilite(linenums=True, pygments_style-emacs)`.\n  \n  See [codehilte page](https://pythonhosted.org/Markdown/extensions/code_hilite.html) for more info.\n  \n  ### Meta Data Support\n  When the `meta` extension is enabled (https://pythonhosted.org/Markdown/extensions/meta_data.html), the results will be written to the HTML head in the form `<meta name=\"key\" content=\"value1,value2\">`.  `title` is the one exception, and its content will be written to the title tag in the HTML head.\n  \n  ### YAML Frontmatter Support\n  YAML frontmatter can be stripped out and read when `strip_yaml_front_matter` is set to  `true` in the settings file.  In general the, the fronmatter is handled the same as [meta data](#meta-data-support), but if both exist in a file, the YAML keys will override the `meta` extension keys.  There are a few special keys names that won't be handled as html meta data.\n  \n  #### Special YAML Key Names\n  Yaml frontmatter has a few special key names that are used that will not be handled as meta data:\n  \n  - **basepath**: An absolute path to configure the relative paths for images etc. (for when the markdown is supposed to reference images in a different location.)\n  - **references**: Can take a file path or an array of file paths for separate markdown files containing references, footnotes, etc.  Can be an absolute path or relative path.  Relative paths first use the source file's directory, and if the file cannot be found, it will use the `basepath` setting.\n  - **destination**: This is an absolute file path or relative file path for when the markdown is saved to html via the build command or the `Save to HTML` command.  Relative paths first use the source file's directory, and if the file cannot be found, it will use the `basepath` setting.\n  - **settings**: This is a dictionary where you can override settings that are in the settings file.\n  \n  #### Example\n  ```yaml\n  ---\n      # Builtin values\n      references:\n          - references.md\n          - abbreviations.md\n          - footnotes.md\n  \n      destination: destination.html\n  \n      # Meta Data\n      title: Test Page\n      author:\n          - John Doe\n          - Jane Doe\n  \n      # Settings overrides\n      settings:\n          enabled_extensions:\n          - extra\n          - github\n          - toc\n          - headerid\n          - smarty(smart_quotes=False) # smart quotes interferes with attr_list\n          - meta\n          - wikilinks\n          - admonition\n          - codehilite(guess_lang=False,pygments_style=github)\n  ---\n  ```\n  \n  ### Parsing Github Flavored Markdown :\n  Github Flavored Mardown (GFM) is a very popular markdown.  Markdown Preview can actually handle them in a couple of ways: online and offline.\n  \n  #### Online :\n  Parsing GFM using the online method requires using the Github API as the parser.  It may also require setting `github_mode` to `gfm` to get things like tasklists to render properly. You can set your API key in the settings as follows:\n  \n  ```js\n      \"github_oauth_token\": \"secret\"\n  ```\n  \n  #### Offline :\n  By default almost all extensions are enabled to help with the github feel, but there are some tweaks needed to get the full experience.\n  \n  GFM does not auto guess language in fenced blocks, but Markdown Preview does this by default.  You can fix this in one of two ways:\n  \n  1. Disable auto language guessing in the settings file `\"guess_language\": false,`\n  2. Or if you are manually defining extensions: `\"enabled_extensions\": [\"codehilite(guess_lang=False,pygments_style=github)\"]`\n  \n  \n  As mentioned earlier, almost all extensions are enabled by default, but as a reference, the minimum extensions that should be enabled are listed below:\n  \n  ```javascript\n  	\"enabled_extensions\": [\n  		\"extra\",\n  		\"github\",\n  		\"codehilite(guess_lang=False,pygments_style=github)\"\n  	]\n  ```\n  \n  This may be further enhanced in the future.\n  \n  \n  ## Support :\n  \n  - Any bugs about Markdown Preview please feel free to report [here][issue].\n  - And you are welcome to fork and submit pullrequests.\n  \n  \n  ## License :\n  \n  The code is available at github [project][home] under [MIT licence][4].\n  \n   [home]: https://github.com/revolunet/sublimetext-markdown-preview\n   [3]: https://packagecontrol.io/\n   [4]: http://revolunet.mit-license.org\n   [5]: https://developer.github.com/v3/markdown/\n   [6]: https://help.github.com/articles/github-flavored-markdown/\n   [7]: https://github.com/dz0ny/LiveReload-sublimetext2\n   [8]: https://github.com/revolunet/sublimetext-markdown-preview/issues/27#issuecomment-11772098\n   [9]: https://github.com/revolunet/sublimetext-markdown-preview/issues/78#issuecomment-15644727\n   [10]: https://github.com/waylan/Python-Markdown\n   [11]: https://packagecontrol.io/installation\n   [12]: https://github.com/revolunet/sublimetext-markdown-preview/archive/master.zip\n   [issue]: https://github.com/revolunet/sublimetext-markdown-preview/issues\n   [settings]: https://github.com/revolunet/sublimetext-markdown-preview/blob/master/MarkdownPreview.sublime-settings\n\n\nMarkdownEditing\n---------------\n\n  # MarkdownEditing\n  \n  Markdown plugin for Sublime Text. Provides a decent Markdown color scheme (light and dark) with more __robust__ syntax highlighting and useful Markdown editing features for Sublime Text. 3 flavors are supported: Standard Markdown, __GitHub flavored Markdown__, MultiMarkdown.\n  \n  ![MarkdownEditing][github]\n  \n  [Dark][github 2] and [yellow][github 3] theme available ([additional](#additional-color-themes)).\n  \n  ## Overview\n  \n  * [Installation](#installation)\n  * [Features](#features)\n  * [Key Bindings](#key-bindings)\n  * [GFM Specific Features](#gfm-specific-features)\n  * [Commands for Command Palette](#commands-for-command-palette)\n  * [Configuration](#configuration)\n  * [Tips](#tips)\n  * [Similar Plugins](#similar-plugins)\n  * [Known Bugs](#known-bugs)\n  * [Contributing](#contributing)\n  * [Credits](#credits)\n  * [Donation](#donation)\n  * [License](#license)   \n  \n  ## Installation\n  \n  > __Important Note About Installation__\n  > \n  > Are you getting this error after installation: _**Error loading syntax file** \"Packages/Markdown/Markdown.tmLanguage\": Unable to open Packages/Markdown/Markdown.tmLanguage_? This is caused by open markdown files at the install time. You have to __manually change their syntax to your newly installed Markdown syntax__. Read the below paragraph for more details on this.\n  \n  _Note_: Sublime text has a native tiny package for Markdown. However, when MarkdownEditing is enabled, native package causes some conflicts. For this reason, MarkdownEditing will automatically disable it. Since it doesn't bring anything new over MarkdownEditing, this is not a loss. But remember, when you disable MarkdownEditing, you have to reenable the native one manually (if you want).\n  \n  If you are using Sublime Text 2, you have to disable the native package _manually_. To do that, add `Markdown` to your `ignored_packages` list in ST user settings:\n  \n      \"ignored_packages\": [..., \"Markdown\"],\n  \n  ### Package Control\n  \n  The preferred method of installation is via [Sublime Package Control][wbond].\n  \n  1. [Install Sublime Package Control][wbond 2]\n  2. From inside Sublime Text, open Package Control's Command Pallet: <kbd>CTRL</kbd> <kbd>SHIFT</kbd> <kbd>P</kbd> (Windows, Linux) or <kbd>CMD</kbd> <kbd>SHIFT</kbd> <kbd>P</kbd> on Mac.\n  3. Type `install package` and hit Return. A list of available packages will be displayed.\n  4. Type `MarkdownEditing` and hit Return. The package will be downloaded to the appropriate directory.\n  5. Restart Sublime Text to complete installation. Open a Markdown file and this custom theme. The features listed above should now be available.\n  \n  ### Manual Installation\n  \n  1. Download or clone this repository to a directory `MarkdownEditing` in the Sublime Text Packages directory for your platform:\n      * Mac: `git clone https://github.com/SublimeText-Markdown/MarkdownEditing.git ~/Library/Application\\ Support/Sublime\\ Text\\ 2/Packages/MarkdownEditing`\n      * Windows: `git clone https://github.com/SublimeText-Markdown/MarkdownEditing.git %APPDATA%\\Sublime/ Text/ 2/\\MarkdownEditing`\n      * Linux: `git clone https://github.com/SublimeText-Markdown/MarkdownEditing.git ~/.Sublime\\ Text\\ 2/Packages/MarkdownEditing`\n  2. Restart Sublime Text to complete installation. Open a Markdown file and this custom theme. The features listed above should now be available.\n  \n  ## Features\n  \n  * Asterisks and underscores are autopaired and will wrap selected text\n      - If you start an empty pair and hit backspace, both elements are deleted\n      - If you start an empty pair and hit space, the right element is deleted\n  * Backticks are paired\n  * At the end of a list item, pressing <kbd>Enter</kbd> will automatically insert the new list item bullet.\n      - Pressing <kbd>Tab</kbd> on the blank list item will indent it and switch the list bullet to another one (Order is `*`, `-`, `+` in a cycle).\n      - Pressing <kbd>Shift</kbd> <kbd>Tab</kbd> on the blank list item will unindent it in the same way as above.\n      - Sequential <kbd>Tab</kbd> s or <kbd>Shift</kbd> <kbd>Tab</kbd> s are supported.\n      - You can disable automatic bullet switching or choose which bullets to be used, in your settings file.\n      - If a list item contains a [GFM task][GFM], pressing <kbd>Enter</kbd> at the end of the line will continue with a new blank task.\n  * At the end of a blockquote line, pressing <kbd>Enter</kbd> will automatically extend blockquote.\n  * Selecting some text and pressing <kbd>&gt;</kbd> will convert it to blockquote. The first and the last line don't have to be fully selected; partial select works, too.\n  * Left bracket pairing is modified to eliminate the selection and leave the cursor at a point where you can insert a `[]` or `()` pair for a link\n  * Displays Markdown headers in the Project Symbol List (<kbd>Ctrl</kbd> <kbd>Shift</kbd> <kbd>R</kbd>). They will start with `#`, so you will know they belong to markdown files at a glance. Also they will be on top of the list because of the presedence of `#`.\n  * <kbd>~</kbd> wraps selected text with `~~` (strikethrough).\n  * Typing `#` when there's a selection will surround it with `#` to make it a headline. Multiple presses add additional hashes, increasing the level of the header. Once you hit 6 hashes, it will reset to 0 on the next press. The `mde.match_header_hashes` will determine if the `#` are mirrored on both sides or just at the beginning of the line.\n  * Typing return at the end of a line that begins with hashmarks will insert closing hashmarks on the headline. They're not required for Markdown, it's just aesthetics, and you can change the `mde.match_header_hashes` option in your settings to disable.\n  * Setext-style headers can be completed with `Tab`. That is, typing `Tab` on a line containing only `=` or `-` characters will add or remove enough characters to it to match the length of the line above.\n  * New documents will be named automatically based on the first header.\n  \n  ## Key Bindings\n  \n  | OS X | Windows/Linux | Description |\n  |------|---------------|-------------|\n  | <kbd>⌘</kbd><kbd>⌥</kbd><kbd>V</kbd> | <kbd>Ctrl</kbd><kbd>Win</kbd><kbd>V</kbd> | Creates or pastes the contents of the clipboard as an inline link on selected text.\n  | <kbd>⌘</kbd><kbd>⌥</kbd><kbd>R</kbd> | <kbd>Ctrl</kbd><kbd>Win</kbd><kbd>R</kbd> | Creates or pastes the contents of the clipboard as a reference link.\n  | <kbd>⌘</kbd><kbd>⇧</kbd><kbd>K</kbd> | <kbd>Shift</kbd><kbd>Win</kbd><kbd>K</kbd> | Creates or pastes the contents of the clipboard as an inline image on selected text.\n  | <kbd>⌘</kbd><kbd>⌥</kbd><kbd>B</kbd> <kbd>⌘</kbd><kbd>⌥</kbd><kbd>I</kbd> | <kbd>Alt</kbd><kbd>B</kbd> <kbd>Alt</kbd><kbd>I</kbd> | These are bound to bold and italic. They work both with and without selections. If there is no selection, they will just transform the word under the cursor. These keybindings will unbold/unitalicize selection if it is already bold/italic.\n  | <kbd>⌘</kbd><kbd>^</kbd><kbd>1...6</kbd> | <kbd>Ctrl</kbd><kbd>1...6</kbd> | These will add the corresponding number of hashmarks for headlines. Works on blank lines and selected text in tandem with the above headline tools. If you select an entire existing headline, the current hashmarks will be removed and replaced with the header level you requested. This command respects the `mde.match_header_hashes` preference setting.\n  | <kbd>⌥</kbd><kbd>⇧</kbd><kbd>6</kbd> | <kbd>Alt</kbd><kbd>Shift</kbd><kbd>6</kbd> | Inserts a footnote.\n  \n  ## GFM Specific Features\n  \n  Underscores in words doesn't mess with bold or italic style:\n  \n  ![underscore-in-words][github 5]\n  \n  Fenced code blocks gets syntax highlighting inside:\n  \n  ![fenced-code-block][github 6]\n  \n  Keyboard shortcuts gets highlighted like in GitHub:\n  \n  ![keyboard-shortcut][github 7]\n  \n  Strikethrough is supported:\n  \n  ![strikethrough][github 8]\n  \n  ## Commands for Command Palette\n  \n  ### Fix Underlined Headers\n  \n  Adjusts every setext-style header to add or remove `=` or `-` characters as needed to match the lengths of their header text.\n  \n  ### Convert Underlined Headers to ATX\n  \n  Converts every setext-style header into an ATX style header. If something is selected only the headers in the selections will be converted, otherwise the conversion will be applied to the whole view.\n  \n  ### Add Missing Link Labels\n  \n  Scans document for referenced link usages (`[some link][some_ref]` and `[some link][]`) and checks if they are all defined. If there are undefined link references, command will automatically create their definition snippet at the bottom of the file.\n  \n  ### Markdown Lint\n  \n  Performs lint on current Markdown file. See [lint rules](lint_docs/RULES.md). Some of the linting rules are customizable via user settings file.\n  \n  ### Switch List Bullet Type\n  \n  Switches the highlighted list between numbered and bulleted style.\n  \n  ### Magic Footnotes Command\n  \n  Adds a footnote after the word under cursor. If cursor is already on a footnote, jumps to its definition or reference.\n  \n  ### Gather Missing Footnotes\n  \n  Add definition stubs (if there is none) for all footnotes references.\n  \n  ### Jump Reference\n  \n  Jumps cursor between definitions and references.\n  \n  ### New Reference\n  \n  Adds a new link under cursor.\n  \n  ### New Inline Link\n  \n  Adds a new inline link under cursor.\n  \n  ### New Inline Image\n  \n  Adds a new inline image under cursor.\n  \n  ### New Image\n  \n  Adds a new image under cursor.\n  \n  ### New Footnote\n  \n  Adds a footnote under cursor.\n  \n  ### Delete Reference\n  \n  Deletes the definition and references of a link.\n  \n  ### Organize References\n  \n  Sorts and gives a report on current link references usage.\n  \n  ## Configuration\n  \n  The plugin contains 3 different Markdown flavors: Standard Markdown, GitHub flavored Markdown, MultiMarkdown. Default is GitHub flavored Markdown. If you want to set another one as default, open a Markdown file and select your flavor from the menu: `View > Syntax > Open all with current extension as`. You're done.\n  \n  You may want to have a look at the default settings files. They are located at:\n  \n      Packages/MarkdownEditing/Markdown.sublime-settings         [GitHub flavored Markdown]\n      Packages/MarkdownEditing/Markdown (Standard).sublime-settings\n      Packages/MarkdownEditing/MultiMarkdown.sublime-settings\n  \n  If you want to override any of the default settings, you can open the appropriate user settings file using the `Preferences > Package Settings > Markdown Editing` menu. Each flavor has a different settings file.\n  \n  Bold and italic markers are configurable through ST shell variables. You can use `Preferences > Package Settings > Markdown Editing` menu to see the default settings file. In order to override it, copy & paste its content into the user settings file (`Packages/User/Bold and Italic Markers.tmPreferences`) from the menu and make your edits. It is pretty straightforward.\n  \n  In order to activate the dark or the yellow theme, put one of these lines to your user settings file of the flavor (`Packages/User/[flavor].sublime-settings`):\n  \n      \"color_scheme\": \"Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme\",\n      \"color_scheme\": \"Packages/MarkdownEditing/MarkdownEditor-Yellow.tmTheme\",\n  \n  If you want to go with your already existing theme, you can reenable it with the same method as above. Keep in mind that, that theme may not cover all the parts of the Markdown syntax that this plugin defines.\n  \n  ### Additional color themes:\n  \n  - [Blackboard theme][linkBlackboardTheme] by [@mdesantis][mdesantis]\n  \n  By default, when you install the plugin, files with these extensions will be assigned to Markdown syntax: \"md\", \"txt\", \"mdown\", \"markdown\", \"markdn\". If you want to prevent any of these extensions to be opened as Markdown, follow these steps:\n  \n  1. Click on the language menu at bottom right\n  2. Select \"Open all with current extension as\"\n  3. Choose your preferred syntax for that extension\n  \n  ## Tips\n  \n  We are maintaining a [tips section][tips] in our [Wiki][]. Jump there to learn from others or share your experiences with others.\n  \n  ## Similar Plugins\n  \n  * [Knockdown][]\n  \n       Knockdown offers useful Markdown features and a custom Markdown theme. All of its unique features except its theme are ported to MarkdownEditing and some of them are actually improved further in MarkdownEditing.\n  * [Sublime Markdown Extended][]\n  * [SmartMarkdown][]\n  \n  ## Known Bugs\n  \n  * Setext-style headers (`===` and `---`) do not show up in the symbol list. This is due to a Sublime Text limitation (see [#158][]). However, we are able to put a placeholder to indicate the existence of the header. We encourage you to use Atx-style headers (`#`).\n  \n  * Installing for the first time while having markdown files opened may cause MarkdownEditing to behave unexpectedly on those files. Close and reopen those files to fix it.\n  \n  ## Contributing\n  \n  See `CONTRIBUTING.md` file.\n  \n  ## Credits\n  \n  MarkdownEditing was originally created by [Brett Terpstra][brettterpstra] and has become a community project with the goal of consolidating the best features from the varied collection of Markdown packages for Sublime Text. Current development is headed up by [Ali Ayas][github 9] and [Felix Hao][github 10].\n  \n  Related blog posts from Brett:\n  * http://brettterpstra.com/2012/05/17/markdown-editing-for-sublime-text-2-humble-beginnings/\n  * http://brettterpstra.com/2013/11/23/markdownediting-for-sublime-text-updates/\n  \n  This plugin contains portions of code from [Knockdown][].\n  \n  Footnote commands were submitted by [J. Nicholas Geist][github 4] and originated at [geekabouttown][geekabouttown].\n  \n  ## Donation\n  \n  You can support [contributors](https://github.com/SublimeText-Markdown/MarkdownEditing/graphs/contributors) of this project individually. Every contributor is welcomed to add his/her line below with any content. Ordering shall be alphabetically by GitHub username.\n  \n  * [@felixhao28][github 10]: <a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9QV2RFV2J8UZS\"><img src=\"https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif\" alt=\"[paypal]\" /></a>\n  * [@maliayas][github 9]: <a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=W2NXRPD43YSCU&amp;lc=TR&amp;item_name=open-source&amp;item_number=markdown-editing&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted\"><img src=\"https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif\" alt=\"[paypal]\" /></a> ![donation received](http://maliayas.com/business/donation/badge.php?project=markdown_editing)\n  \n  ## License\n  \n  MarkdownEditing is released under the [MIT License][opensource].\n  \n  [TableEditor]:                 https://github.com/vkocubinsky/SublimeTableEditor\n  [Knockdown]:                   https://github.com/aziz/knockdown/\n  [Sublime Markdown Extended]:   https://github.com/jonschlinkert/sublime-markdown-extended\n  [SmartMarkdown]:               https://github.com/demon386/SmartMarkdown\n  [Typewriter]:                  https://github.com/alehandrof/Typewriter\n  [OpenUrl]:                     https://github.com/noahcoad/open-url\n  [brettterpstra]: http://brettterpstra.com\n  [geekabouttown]: http://geekabouttown.com/posts/sublime-text-2-markdown-footnote-goodness\n  [github]: https://raw.github.com/SublimeText-Markdown/MarkdownEditing/master/screenshots/light.png\n  [github 2]: https://raw.github.com/SublimeText-Markdown/MarkdownEditing/master/screenshots/dark.png\n  [github 3]: https://raw.github.com/SublimeText-Markdown/MarkdownEditing/master/screenshots/yellow.png\n  [github 4]: https://github.com/jngeist\n  [github 5]: https://raw.github.com/SublimeText-Markdown/MarkdownEditing/master/screenshots/underscore-in-words.png\n  [github 6]: https://raw.github.com/SublimeText-Markdown/MarkdownEditing/master/screenshots/fenced-code-block.png\n  [github 7]: https://raw.github.com/SublimeText-Markdown/MarkdownEditing/master/screenshots/keyboard-shortcut.png\n  [github 8]: https://raw.github.com/SublimeText-Markdown/MarkdownEditing/master/screenshots/strikethrough.png\n  [github 9]: https://github.com/maliayas\n  [github 10]: https://github.com/felixhao28\n  [opensource]: http://www.opensource.org/licenses/MIT\n  [wbond]: http://wbond.net/sublime_packages/package_control\n  [wbond 2]: http://wbond.net/sublime_packages/package_control/installation\n  [FullScreenStatus]: https://github.com/maliayas/SublimeText_FullScreenStatus\n  [macstories]: http://www.macstories.net/roundups/sublime-text-2-and-markdown-tips-tricks-and-links/\n  [tips]: https://github.com/SublimeText-Markdown/MarkdownEditing/wiki/Tips\n  [Wiki]: https://github.com/SublimeText-Markdown/MarkdownEditing/wiki\n  [GFM]: https://help.github.com/articles/github-flavored-markdown\n  [#158]: https://github.com/SublimeText-Markdown/MarkdownEditing/issues/158\n  [linkBlackboardTheme]: https://github.com/mdesantis/MarkdownEditing/blob/blackboard-theme/MarkdownEditor-Blackboard.tmTheme\n  [mdesantis]: https://github.com/mdesantis\n",
+			"settings":
+			{
+				"buffer_size": 29556,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markd",
+				"Snippet: Markdown Hyperlink"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"switch",
+				"PHP Code Sniffer: Switch coding standard"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"github",
+				"GitHub: Switch Accounts"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Switch coding standard"
+			],
+			[
+				"Tidy ",
+				"Tidy PHP"
+			],
+			[
+				"edit",
+				"Set Syntax: EditorConfig"
+			],
+			[
+				"phpti",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"codeedit",
+				"PHP Code Sniffer: Switch coding standard"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"insal",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git commit ",
+				"Git: Commit"
+			],
+			[
+				"xde",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"intal",
+				"Package Control: Install Package"
+			],
+			[
+				"xdeb",
+				"Preferences: Xdebug Settings – Default"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/seagyn/Development/www/select-scripts/htdocs/wp-content/plugins/selective-scripts/selective-scripts.php",
+		"/Users/seagyn/Development/www/decorware/htdocs/wp-config.php",
+		"/Users/seagyn/Development/www/decorware/htdocs/wp-content/themes/total/partials/topbar/topbar-content.php",
+		"/Users/seagyn/Development/www/decorware/htdocs/wp-content/themes/total/partials/topbar/topbar-layout.php",
+		"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress/templates/email/invoice.php",
+		"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress/includes/class-fp-email.php",
+		"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress/includes/class-fp-membership.php",
+		"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress/fitpress.php",
+		"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress-invoices/includes/fp-invoices-utilities.php",
+		"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress/includes/fp-utilities.php",
+		"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress-workouts/fitpress-workouts.php",
+		"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress/.editorconfig",
+		"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress-invoices/.editorconfig",
+		"/Users/seagyn/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/Applications/MAMP/htdocs/sandbox/wp-content/plugins/the-social-links/readme.txt",
+		"/Applications/MAMP/htdocs/sandbox/wp-content/plugins/the-social-links/the-social-links.php",
+		"/Applications/MAMP/htdocs/sandbox/wp-content/plugins/the-social-links/.gitignore",
+		"/Applications/MAMP/htdocs/sandbox/wp-content/plugins/the-social-links/bin/install-wp-tests.sh",
+		"/Applications/MAMP/htdocs/sandbox/wp-content/plugins/the-social-links/bin/phpcs.ruleset.xml",
+		"/Applications/MAMP/htdocs/sandbox/wp-content/plugins/the-social-links/ruleset.xml",
+		"/Applications/MAMP/htdocs/sandbox/wp-content/plugins/the-social-links/phpunit.xml",
+		"/Applications/MAMP/htdocs/sandbox/wp-content/plugins/the-social-links-pack/the-social-links-pack.php",
+		"/Applications/MAMP/htdocs/sandbox/wp-content/plugins/the-social-links/tests/bootstrap.php",
+		"/Applications/MAMP/htdocs/sandbox/wp-content/plugins/the-social-links/tests/test-plugin.php",
+		"/Applications/MAMP/htdocs/sandbox/wp-content/plugins/the-social-links/bin/travis.script.sh",
+		"/Applications/MAMP/htdocs/sandbox/wp-content/plugins/the-social-links/.travis.yml",
+		"/Applications/MAMP/htdocs/.editorconfig",
+		"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress/templates/account/calender-bookings.php",
+		"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress/templates/account/account.php",
+		"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress/includes/class-fp-install.php",
+		"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress/assets/css/fitpress.css",
+		"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress-invoices/fitpress-invoices.php",
+		"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress/includes/class-fp-account.php",
+		"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress/includes/class-fp-flash-message.php",
+		"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress/includes/class-fp-booking.php",
+		"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress/includes/class-fp-admin.php",
+		"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress/includes/class-fp-classes.php",
+		"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress/templates/account/form-login.php",
+		"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress/templates/account/form-lost-password.php",
+		"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress/templates/account/form-update-account.php",
+		"/Applications/MAMP/htdocs/exanimo/wp-content/plugins/woocommerce/includes/wc-notice-functions.php",
+		"/Applications/MAMP/htdocs/exanimo/wp-content/plugins/woocommerce/woocommerce.php",
+		"/Applications/MAMP/htdocs/exanimo/wp-content/plugins/woocommerce/includes/wc-order-functions.php",
+		"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress/includes/class-fp-credits.php",
+		"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress/includes/class-fp-session.php",
+		"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress/assets/js/fitpress.js",
+		"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress/templates/account/form-edit-account.php",
+		"/Applications/MAMP/htdocs/exanimo/wp-content/plugins/woocommerce/includes/class-wc-post-types.php",
+		"/Applications/MAMP/htdocs/exanimo/wp-content/plugins/woocommerce-subscriptions/woocommerce-subscriptions.php",
+		"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress/templates/email/default.php",
+		"/Applications/MAMP/htdocs/exanimo/wp-content/plugins/woocommerce/templates/emails/admin-new-order.php",
+		"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress/templates/account/menu.php",
+		"/Applications/MAMP/htdocs/exanimo/wp-content/plugins/woocommerce/includes/wc-page-functions.php",
+		"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress/templates/account/account-menu.php",
+		"/Applications/MAMP/htdocs/exanimo/wp-content/plugins/woocommerce/includes/class-wc-frontend-scripts.php",
+		"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress/assets/css/fitpress-admin.css",
+		"/Applications/MAMP/htdocs/exanimo/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php",
+		"/Applications/MAMP/htdocs/exanimo/wp-content/plugins/woocommerce/includes/wc-template-functions.php",
+		"/Applications/MAMP/htdocs/exanimo/wp-content/plugins/woocommerce/includes/class-wc-query.php",
+		"/Applications/MAMP/htdocs/exanimo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-my-account.php",
+		"/Applications/MAMP/htdocs/exanimo/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php",
+		"/Applications/MAMP/htdocs/exanimo/wp-content/plugins/woocommerce/includes/wc-core-functions.php",
+		"/Applications/MAMP/htdocs/exanimo/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-order-tracking.php",
+		"/Applications/MAMP/htdocs/fitpress/wp-config.php",
+		"/private/var/folders/cw/0xv6gpvs451bpznjj_3vpy900000gn/T/fz3temp-1/job_openings.php",
+		"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress/assets/fitpress.js",
+		"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress/includes/class-fp-meta-data.php",
+		"/private/var/folders/cw/0xv6gpvs451bpznjj_3vpy900000gn/T/fz3temp-1/vc-posts-grid.php",
+		"/private/var/folders/cw/0xv6gpvs451bpznjj_3vpy900000gn/T/fz3temp-1/vc_posts_grid.php",
+		"/private/var/folders/cw/0xv6gpvs451bpznjj_3vpy900000gn/T/fz3temp-1/shortcodes.php",
+		"/private/var/folders/cw/0xv6gpvs451bpznjj_3vpy900000gn/T/fz3temp-1/dl.css",
+		"/private/var/folders/cw/0xv6gpvs451bpznjj_3vpy900000gn/T/fz3temp-1/suppliers.php",
+		"/private/var/folders/cw/0xv6gpvs451bpznjj_3vpy900000gn/T/fz3temp-1/functions.php",
+		"/private/var/folders/cw/0xv6gpvs451bpznjj_3vpy900000gn/T/fz3temp-1/storelocator.js",
+		"/private/var/folders/cw/0xv6gpvs451bpznjj_3vpy900000gn/T/fz3temp-1/iwd-jquery-2.1.3.min.js",
+		"/private/var/folders/cw/0xv6gpvs451bpznjj_3vpy900000gn/T/fz3temp-1/Path.php",
+		"/private/var/folders/cw/0xv6gpvs451bpznjj_3vpy900000gn/T/fz3temp-1/Extensions.php",
+		"/private/var/folders/cw/0xv6gpvs451bpznjj_3vpy900000gn/T/fz3temp-1/Search.php",
+		"/private/var/folders/cw/0xv6gpvs451bpznjj_3vpy900000gn/T/fz3temp-1/Result.php",
+		"/private/var/folders/cw/0xv6gpvs451bpznjj_3vpy900000gn/T/fz3temp-1/Collection.php",
+		"/private/var/folders/cw/0xv6gpvs451bpznjj_3vpy900000gn/T/fz3temp-1/Stores 2.php",
+		"/private/var/folders/cw/0xv6gpvs451bpznjj_3vpy900000gn/T/fz3temp-1/Store.php",
+		"/private/var/folders/cw/0xv6gpvs451bpznjj_3vpy900000gn/T/fz3temp-1/Abstract.php",
+		"/private/var/folders/cw/0xv6gpvs451bpznjj_3vpy900000gn/T/fz3temp-1/Observer.php",
+		"/private/var/folders/cw/0xv6gpvs451bpznjj_3vpy900000gn/T/fz3temp-1/Data.php",
+		"/private/var/folders/cw/0xv6gpvs451bpznjj_3vpy900000gn/T/fz3temp-1/Geolocation.php",
+		"/private/var/folders/cw/0xv6gpvs451bpznjj_3vpy900000gn/T/fz3temp-1/Router.php",
+		"/private/var/folders/cw/0xv6gpvs451bpznjj_3vpy900000gn/T/fz3temp-1/custom-post-connect-groups.php",
+		"/private/var/folders/cw/0xv6gpvs451bpznjj_3vpy900000gn/T/fz3temp-1/connect-groups.php",
+		"/private/var/folders/cw/0xv6gpvs451bpznjj_3vpy900000gn/T/fz3temp-1/template-connect-groups.php",
+		"/private/var/folders/cw/0xv6gpvs451bpznjj_3vpy900000gn/T/fz3temp-1/single-portfolio.php",
+		"/private/var/folders/cw/0xv6gpvs451bpznjj_3vpy900000gn/T/fz3temp-1/config.xml",
+		"/private/var/folders/cw/0xv6gpvs451bpznjj_3vpy900000gn/T/fz3temp-1/IndexController.php",
+		"/private/var/folders/cw/0xv6gpvs451bpznjj_3vpy900000gn/T/fz3temp-1/CustomerController.php",
+		"/private/var/folders/cw/0xv6gpvs451bpznjj_3vpy900000gn/T/fz3temp-1/header-layout.php",
+		"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress/includes/class-fp-post-types.php",
+		"/Applications/MAMP/htdocs/exanimo/wp-content/plugins/woocommerce-fitness/classes/wc-fitness-taxonomies.php",
+		"/private/var/folders/cw/0xv6gpvs451bpznjj_3vpy900000gn/T/fz3temp-1/wp-config.php",
+		"/private/var/folders/cw/0xv6gpvs451bpznjj_3vpy900000gn/T/fz3temp-1/wc-fitness-utility-functions.php",
+		"/Users/seagyn/Desktop/metronome-master/css/main.css",
+		"/Applications/MAMP/htdocs/exanimo/wp-content/plugins/woocommerce-fitness/templates/myaccount/calendar-bookings.php",
+		"/private/var/folders/cw/0xv6gpvs451bpznjj_3vpy900000gn/T/fz3temp-1/index.php",
+		"/Users/seagyn/Downloads/PayWebv2_PHP_Sample/pg_paywebv2_php_result.php",
+		"/Applications/MAMP/htdocs/gravityformspaygate/wp-content/plugins/digtal-leap-features/digital-leap-features.php",
+		"/Applications/MAMP/htdocs/gravityformspaygate/wp-content/plugins/digtal-leap-features/includes/paygate.php",
+		"/Applications/MAMP/htdocs/guitarexcellence/wp-content/plugins/digital-leap-features/includes/metronome.php",
+		"/Applications/MAMP/htdocs/guitarexcellence/wp-content/plugins/digital-leap-features/digital-leap-features.php",
+		"/Applications/MAMP/htdocs/gravityformspaygate/wp-content/plugins/gravityformspaygate/class-gf-paygate.php",
+		"/Applications/MAMP/htdocs/gravityformspaygate/wp-content/plugins/gravityformspaygate/paygate_common.inc",
+		"/Applications/MAMP/htdocs/guitarexcellence/wp-content/plugins/woothemes-sensei/classes/class-woothemes-sensei-frontend.php",
+		"/Applications/MAMP/htdocs/guitarexcellence/wp-content/plugins/woothemes-sensei/classes/class-woothemes-sensei-course.php",
+		"/Applications/MAMP/htdocs/guitarexcellence/wp-content/plugins/woothemes-sensei/templates/loop-course.php",
+		"/Applications/MAMP/htdocs/guitarexcellence/wp-content/themes/Corporative-child/style.css",
+		"/Applications/MAMP/htdocs/guitarexcellence/wp-content/themes/Corporative-child/woocommerce/myaccount/my-account.php",
+		"/Applications/MAMP/htdocs/guitarexcellence/wp-content/themes/Corporative-child/includes/menu-header.php",
+		"/Applications/MAMP/htdocs/guitarexcellence/wp-content/themes/Corporative-child/includes/header4.php",
+		"/Applications/MAMP/htdocs/guitarexcellence/wp-content/themes/Corporative-child/woocommerce/checkout/payment.php",
+		"/Applications/MAMP/htdocs/guitarexcellence/wp-content/themes/Corporative-child/functions.php",
+		"/Applications/MAMP/htdocs/memorywall/wp-content/themes/oxygen-child/tpls/footer-main.php",
+		"/Users/seagyn/Downloads/webfontkit-20150915-082458/stylesheet.css",
+		"/Applications/MAMP/htdocs/guitarexcellence/wp-content/themes/Corporative-child/sensei/loop-lesson.php",
+		"/Applications/MAMP/htdocs/guitarexcellence/wp-content/themes/Corporative-child/sensei/single-course/course-lessons.php",
+		"/Applications/MAMP/htdocs/guitarexcellence/wp-content/debug.log",
+		"/Applications/MAMP/htdocs/thegoldguys/wp-content/plugins/digital-leap-features/includes/diamond-filter.php",
+		"/Applications/MAMP/htdocs/dsa/wp-content/plugins/digital-leap-features/includes/people.php",
+		"/Applications/MAMP/htdocs/guitarexcellence/wp-content/themes/Corporative-child/header.php",
+		"/Applications/MAMP/htdocs/guitarexcellence/wp-content/themes/Corporative-child/woocommerce/checkout/form-checkout.php",
+		"/Applications/MAMP/htdocs/guitarexcellence/wp-content/themes/Corporative/admin/ReduxCore/inc/validation/html/validation_html.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/seagyn/Development/www/decorware/htdocs/wp-content/themes/total",
+			"/Users/seagyn/Development/www/decorware/htdocs/wp-content/themes/total-child/partials/topbar",
+			"/Users/seagyn/Development/www/decorware/htdocs/wp-content/themes/total",
+			"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress",
+			"/Applications/MAMP/htdocs/exanimo/wp-content/plugins/woocommerce",
+			"/Applications/MAMP/htdocs/exanimo/wp-content/plugins/woocommerce/includes",
+			"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress/includes",
+			"/Applications/MAMP/htdocs/exanimo/wp-content/plugins/woocommerce-subscriptions",
+			"/Applications/MAMP/htdocs/fitpress/wp-content/plugins/fitpress",
+			"/Applications/MAMP/htdocs/exanimo/wp-content/plugins/woocommerce",
+			"/Users/seagyn/Desktop/WebForms",
+			"/Applications/MAMP/htdocs/guitarexcellence/wp-content",
+			"/Applications/MAMP/htdocs/guitarexcellence/wp-content/themes/Corporative",
+			"/Applications/MAMP/htdocs/exanimo/wp-content/plugins/woocommerce",
+			"/Applications/MAMP/htdocs/exanimo/wp-content/plugins/woocommerce-fitness",
+			"/Applications/MAMP/htdocs/exanimo/wp-content/plugins/woocommerce-subscriptions/classes",
+			"/Applications/MAMP/htdocs/guitarexcellence/wp-content",
+			"/Applications/MAMP/htdocs/guitarexcellence/wp-content/themes/Corporative",
+			"/Applications/MAMP/htdocs/guitarexcellence/wp-content/plugins/woocommerce",
+			"/Applications/MAMP/htdocs/guitarexcellence/wp-content/plugins/woothemes-sensei",
+			"/Applications/MAMP/htdocs/guitarexcellence/wp-content/plugins/woocommerce-subscriptions",
+			"/Applications/MAMP/htdocs/guitarexcellence/wp-content/themes/Corporative",
+			"/Applications/MAMP/htdocs/dsa/wp-content/themes/Exposed",
+			"/Applications/MAMP/htdocs/thegoldguys/wp-content/plugins",
+			"/Applications/MAMP/htdocs/dsa/wp-content/themes/Exposed",
+			"/Applications/MAMP/htdocs/dsa/wp-content/themes",
+			"/Applications/MAMP/htdocs/dsa/wp-content/themes/Exposed",
+			"/Applications/MAMP/htdocs/dsa/wp-content/plugins/isotope-posts/public",
+			"/Applications/MAMP/htdocs/dsa/wp-content/themes/Exposed",
+			"/Applications/MAMP/htdocs/exanimo/wp-content/plugins/woocommerce-fitness/lib/CMB2",
+			"/Applications/MAMP/htdocs/tomtom_rentals/wp-content/plugins/woocommerce",
+			"/Applications/MAMP/htdocs/tomtom_rentals/wp-content/plugins/woocommerce-bookings",
+			"/Applications/MAMP/htdocs/tomtom_rentals/wp-content/themes/flawless-v1-17",
+			"/Applications/MAMP/htdocs/tomtom_rentals/wp-content/plugins",
+			"/Applications/MAMP/htdocs/tomtom_rentals/wp-content/plugins/woocommerce",
+			"/Applications/MAMP/htdocs/tomtom_rentals/wp-content/plugins/woocommerce-bookings"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"wpex_wcmenucart_menu_item",
+			"topbar-content.php",
+			"cart",
+			"ob_start",
+			"fitpress_next_invoice_date",
+			"term",
+			"function get_membership",
+			"get_membership",
+			"self::",
+			"self",
+			"init_met",
+			"STYLESHEETPATH",
+			"get_members",
+			"ob_",
+			"get_memberships",
+			"Error",
+			"is_req",
+			"function wc_print_notices",
+			"wc_print_notices",
+			"function wc_register_order_type",
+			"booking_response_data",
+			"make_booking",
+			"cancel_booking",
+			"\"cancel_booking\"",
+			"btn",
+			"edit-account",
+			"save_account_details",
+			"edit_",
+			"exit",
+			"install",
+			"get_terms",
+			"fp_da",
+			"email",
+			"get_content",
+			"'sessions'",
+			"STYLE",
+			"lost",
+			"fitpress",
+			"woocommerce_inactive_notice",
+			"function is_woocommerce_active",
+			"is_woocommerce_active]",
+			"is_woocommerce_active",
+			"get_members",
+			"_fp_credits",
+			"array_m",
+			"get_membership",
+			"endpoint",
+			"function wc_get_endpoint_url",
+			"wc_get_endpoint_url",
+			"customer-logout",
+			"logout",
+			"ajax_url()",
+			"ajax_url",
+			"get_members",
+			"fit-press",
+			"wc",
+			"retrieve_password",
+			"lost",
+			"reset_password",
+			"template_red",
+			"logout",
+			"lougout",
+			"customer-logout",
+			"logout",
+			"member-logout",
+			"wc_get_page_",
+			"wc_get",
+			"wc_clean",
+			"query",
+			"wc_",
+			"wc_get_endpoint_url",
+			"wc_locate_template",
+			"function wc_get_template",
+			"wc_get_template",
+			"parse_request",
+			"add_q",
+			"add",
+			"parse_request",
+			"add_query_vars",
+			"my_account",
+			"woocommerce_my_account",
+			"add_endpoints",
+			"add_rewrite",
+			"Insta",
+			"el_class",
+			"$this->settings",
+			"base",
+			"side",
+			"\nremove_action( 'woocommerce_sidebar', 'woocommerce_get_sidebar', 10);",
+			"woocommerce",
+			"list",
+			"search",
+			"none",
+			"show",
+			"result",
+			"location",
+			"locations",
+			"nav",
+			"menu",
+			"email",
+			"default",
+			"http://fonts",
+			"http://",
+			"fonts",
+			"function post",
+			"woocommerce_init",
+			"_init",
+			"wc_init",
+			"_wc_fitness_credit",
+			"get_subscription_credits",
+			"credit",
+			"_wc_fitness_credit",
+			"get_subscription_credits",
+			"on-hold",
+			"Check your e-mail for the confirmation link.",
+			"notice",
+			"wc_print_notices",
+			"capture",
+			"get_order",
+			"process_itn",
+			"return_url",
+			");\n",
+			"feed_settings_field",
+			"feed_setting_fi",
+			"plugin_page",
+			"pgData",
+			"log",
+			"log_error"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"button",
+			"fitpress-invoices",
+			"fp_",
+			"fitpress",
+			"pg",
+			"paygate",
+			"PayGate",
+			"pg",
+			"PG",
+			"PayGate",
+			"gform_paygate",
+			"gravityformspaygate",
+			"<?php echo DLF_PLUGIN_URL;?>assets/media/",
+			"'isotope-posts",
+			"Diamond",
+			"digital-leap-features",
+			"",
+			"digital-leap"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "tests/bootstrap.php",
+					"settings":
+					{
+						"buffer_size": 592,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								428,
+								412
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "readme.md",
+					"settings":
+					{
+						"buffer_size": 812,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "This is the auto-generated files from WP-CLI when",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"parser": "github",
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"target": "disk"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"settings":
+					{
+						"buffer_size": 29556,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29556,
+								29556
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.909253882789,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.xdebug":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"woocommerce-tom",
+				"wp-content/plugins/woocommerce-tomtomrentals/woocommerce-tomtomrentals.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 303.0,
+	"status_bar_visible": true
+}
