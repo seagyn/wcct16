@@ -1,4 +1,4 @@
-# WordCamp Cape Town 2016 
+# WordCamp Cape Town 2016 - Seagyn's Working Copy
 
 Workshop: Introduction to Continuous Integration with WordPress
 
@@ -6,15 +6,12 @@ Workshop: Introduction to Continuous Integration with WordPress
 
 + A Github account
 + A local dev environment
-+ Preferably WP-CLI (not required)
++ WP-CLI (not required)
 
 ## Preparation for the Workshop
 
 1. Have a fresh install of WordPress (You can use VVV, Desktop Server, MAMP etc.)
-2. Fork Selective Scripts (https://github.com/WPJoburg/selective-scripts/)
-3. Clone __your__ Selective Scripts to your local machine into your plugin directory
-4. Install [WP-CLI](http://wp-cli.org/#install)
-5. If you can't install WP-CLI, clone / download this repo - it has all the test files you'll need to get going.
+2. Fork this repo and clone it into your plugins directory
 
 ## Questions
 

@@ -2,7 +2,7 @@
 /**
  * Class SampleTest
  *
- * @package Wp_Plugin_Tests
+ * @package Wcct16
  */
 
 /**
@@ -15,6 +15,6 @@ class SampleTest extends WP_UnitTestCase {
 	 */
 	function test_sample() {
 		// Replace this with some actual testing code.
-		$this->assertTrue( true );
+		$this->assertTrue( is_plugin_active( 'wcct16' ) );
 	}
 }

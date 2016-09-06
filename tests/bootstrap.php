@@ -2,8 +2,10 @@
 /**
  * PHPUnit bootstrap file
  *
- * @package Wp_Plugin_Tests
+ * @package Wcct16
  */
+
+require_once(dirname(__DIR__) . '/vendor/autoload.php');
 
 $_tests_dir = getenv( 'WP_TESTS_DIR' );
 if ( ! $_tests_dir ) {
@@ -17,7 +19,7 @@ require_once $_tests_dir . '/includes/functions.php';
  * Manually load the plugin being tested.
  */
 function _manually_load_plugin() {
-	require dirname( dirname( __FILE__ ) ) . '/your-plugin-file.php';
+	require dirname( dirname( __FILE__ ) ) . '/wcct16.php';
 }
 tests_add_filter( 'muplugins_loaded', '_manually_load_plugin' );
 
