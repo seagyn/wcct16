@@ -37,7 +37,7 @@ class IntegrationTests extends \WP_UnitTestCase {
 		$post_id = $this->factory->post->create();
 		$expected = 'So meta!';
 
-		wcct_save_post_meta( $post_id, 'this-is-key', $expected);
+		wcct_save_post_meta( $post_id, 'this_is_key', $expected);
 
 		$actual = get_post_meta( $post_id, 'wcct_this_is_key', true );
 		$this->assertEquals(
