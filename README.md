@@ -1,12 +1,13 @@
 # WordCamp Cape Town 2016 - Seagyn's Working Copy
 
+## Note: If you forked this repo before last night, please pull in the latest changes! Spread the word.
+
 Workshop: Introduction to Continuous Integration with WordPress
 
 ## Requirements
 
 + A Github account
 + A local dev environment
-+ WP-CLI (not required)
 
 ## Preparation for the Workshop
 
@@ -19,4 +20,4 @@ If you have any questions or anything you want me to cover during the workshop s
 
 ## After the Workshop
 
-I'll be adding the presentation from the workshop into this repo if it helps/
+I'll be adding the presentation from the workshop into this repo.
