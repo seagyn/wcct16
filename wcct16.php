@@ -11,20 +11,20 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: wcct16
 */
 
-namespace WCCT16;
+namespace WCCT;
 
-function wcct16_save_option( $name, $value ){
-	update_option( $name, $value );
+function wcct_save_option( $name, $value ){
+	update_option( 'wcct_' . $name, $value );
 }
 
-function wcct16_get_option( $name ){
-	return get_option( 'wcct16_' . $name );
+function wcct_get_option( $name ){
+	return get_option( 'wcct_' . $name );
 }
 
-function wcct16_save_post_meta( $post_id, $meta_key, $meta_value ){
-	update_post_meta( $post_id, 'wcct16_' . $meta_key, $meta_value );
+function wcct_save_post_meta( $post_id, $meta_key, $meta_value ){
+	update_post_meta( $post_id, 'wcct_' . $meta_key, $meta_value );
 }
 
-function wcct16_get_post_meta( $post_id, $meta_key ){
-	get_post_meta( $post_id, 'wcct16_' . $meta_key );
+function wcct_get_post_meta( $post_id, $meta_key, $single ){
+	return get_post_meta( $post_id, 'wcct_' . $meta_key, $single );
 }
