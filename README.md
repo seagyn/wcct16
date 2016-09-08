@@ -1,4 +1,4 @@
-# WordCamp Cape Town 2016 - Seagyn's Working Copy
+# WordCamp Cape Town 2016 - Seagyn's Working Copy Update
 
 ## Note: If you forked this repo before last night, please pull in the latest changes! Spread the word.
 
