@@ -1,5 +1,7 @@
 # WordCamp Cape Town 2016 - Seagyn's Working Copy Update
 
+Here's a blog post with the link and a basic tutorial on getting CI up and running: [https://www.seagyndavis.com/introduction-continuous-integration-wordpress-wordcamp-cape-town-2016/](https://www.seagyndavis.com/introduction-continuous-integration-wordpress-wordcamp-cape-town-2016/)
+
 ## Note: If you forked this repo before last night, please pull in the latest changes! Spread the word.
 
 Workshop: Introduction to Continuous Integration with WordPress
